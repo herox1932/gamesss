@@ -34,7 +34,7 @@ client.on('message', message => {
 "FaceBooK",
 "YouTube",
 "Infinity",
-"احبك دريم",
+"احبك ابو نوفل",
 "Don't Let Me Down",
 "Space",
 "Instgram",
@@ -72,7 +72,7 @@ client.on('message', message => {
         "FaceBooK",
         "YouTube",
         "Infinity",
-        "احبك دريم",
+        "احبك ابو نوفل",
         "Don't Let Me Down",
 		"Space",
 		"Instgram",
@@ -210,12 +210,12 @@ client.on('message', fkk => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Cyhper Script By : DREAM`);
+      console.log(`Cyhper Script By : ABONOFL`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : ABONOFL ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Light Games`,"http://twitch.tv/Light")
+client.user.setGame(`Light Games`,"https://www.twitch.tv/abon0fl")
 client.user.setStatus("dnd")
 });
 
